@@ -1,4 +1,4 @@
-println("Welcome!");
-println("How are you?");
-print("Hello, Honey!");
-print("Glad to see you!")
+println("Welcome!;");
+println("How are you?;");
+print("Hello, Honey!;");
+print("Glad to see you;!")
