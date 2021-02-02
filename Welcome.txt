@@ -1,2 +1,2 @@
-println("Welcome!");
-println("How are you?");
+println("Welcome!;");
+println("How are you?;");
